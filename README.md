@@ -1,0 +1,3 @@
+# ansible-mackerel-inventory-plugin
+
+
